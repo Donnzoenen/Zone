@@ -1,2 +1,8 @@
 # Zone
 Asukayang 
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xd089DFB49eA8097E613eE766Bd13AFA9A1B813c0'
+quorum: 1
